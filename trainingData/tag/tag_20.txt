@@ -1,0 +1,470 @@
+﻿1	1/SN
+
+역사상	역사상/NNG
+우리는	우리/NP + 는/JX
+과학혁명이라고	과학/NNG + 혁명/NNG + 이라고/JKQ
+부를	부르/VV + ㄹ/ETM
+수	수/NNB
+있을	있/VV + 을/ETM
+만한	만/NNB + 하/XSA + ㄴ/ETM
+크고	크/VA + 고/EC
+작은	작/VA + 은/ETM
+많은	많/VA + 은/ETM
+과학상의	과학상/NNG + 의/JKG
+변혁을	변혁/NNG + 을/JKO
+볼	보/VV + ㄹ/ETM
+수가	수/NNB + 가/JKS
+있다.	있/VV + 다/EF + ./SF
+
+16,17	16/SN + ,/SP + 17/SN
+세기의	세기/NNG + 의/JKG
+<과학혁명>	</SS + 과학/NNG + 혁명/NNG + >/SS
+동안에는	동안/NNG + 에/JKB + 는/JX
+천문학,	천문학/NNG + ,/SP
+역학,	역학/NNG + ,/SP
+생리학	생리학/NNG
+등의	등/NNB + 의/JKG
+과학	과학/NNG
+분야의	분야/NNG + 의/JKG
+내용에	내용/NNG + 에/JKB
+획기적인	획기적/NNG + 이/VCP + ㄴ/ETM
+전환이	전환/NNG + 이/JKS
+있었고	있/VV + 었/EP + 고/EC
+다른	다른/MM
+여러	여러/MM
+분야들에도	분야/NNG + 들/XVPN + 에/JKB + 도/JX
+새로운	새롭/VA + ㄴ/ETM
+조류들을	조류/NNG + 들/XSN + 을/JKO
+찾아볼	찾아보/VV + ㄹ/ETM
+수	수/NNB
+있었다.	있/VV + 었/EP + 다/EF + ./SF
+
+또	또/MAG
+과학혁명은	과학/NNG + 혁명/NNG + 은/JX
+비단	비단/MAG
+과학의	과학/NNG + 의/JKG
+내용에만	내용/NNG + 에/JKB + 만/JX
+국한되지	국한/NNG + 되/XSV + 지/EC
+않고,	않/VX + 고/EC + ,/SP
+과학의	과학/NNG + 의/JKG
+방법,	방법/NNG + ,/SP
+목적	목적/NNG
+및	및/MAJ
+그	그/MM
+사회적	사회적/NNG
+위치에도	위치/NNG + 에/JKB + 도/JX
+큰	크/VA + ㄴ/ETM
+변화가	변화/NNG + 가/JKS
+있었으며,	있/VV + 었/EP + 으며/EC + ,/SP
+이	이/MM
+밖에도	밖/NNG + 에/JKB + 도/JX
+많은	많/VA + 은/ETM
+사상적,	사상적/NNG + ,/SP
+사회적인	사회적/NNG + 이/VCP + ㄴ/ETM
+변화를	변화/NNG + 를/JKO
+그	그/MM
+배경	배경/NNG
+또는	또는/MAG
+결과로서	결과/NNG + 로서/JKB
+수반했다.	수반/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+이	이/MM
+책은	책/NNG + 은/JX
+바로	바로/MAG
+이	이/MM
+16,17	16/SN + ,/SP + 17/SN
+세기의	세기/NNG + 의/JKG
+과학혁명을	과학/NNG + 혁명/NNG + 을/JKO
+주제로	주제/NNG + 로/JKB
+한다.	하/VV + ㄴ다/EF + ./SF
+
+과학혁명은	과학/NNG + 혁명/NNG + 은/JX
+유럽문화	유럽/NNP + 문화/NNG
+전체에	전체/NNG + 에/JKB
+배경을	배경/NNG + 을/JKO
+두고	두/VV + 고/EC
+유럽문화	유럽/NNP + 문화/NNG
+전체에	전체/NNG + 에/JKB
+걸쳐서	걸치/VV + 어서/EC
+영향을	영향/NNG + 을/JKO
+미친	미치/VV + ㄴ/ETM
+혁명적인	혁명적/NNG + 이/VCP + ㄴ/ETM
+역사현상이었다.	역사/NNG + 현상/NNG + 이/VCP + 었/EP + 다/EF + ./SF
+
+그리고	그리고/MAJ
+그런	그런/MM
+의미에서는	의미/NNG + 에서/JKB + 는/JX
+흔히	흔히/MAG
+인용되는	인용/NNG + 되/XSV + 는/ETM
+Herbert	Herbert/SL
+Butterfield의	Butterfield/SL + 의/JKG
+다음과	다음/NNG + 과/JKB
+같은	같/VA + 은/ETM
+주장이	주장/NNG + 이/JKS
+지나친	지나치/VA + ㄴ/ETM
+과장은	과장/NNG + 은/JX
+아니었다고	아니/VCN + 었/EP + 다고/EC
+할	하/VV + ㄹ/ETM
+수	수/NNB
+있다.	있/VV + 다/EF + ./SF
+
+따라서	따라서/MAJ
+과학혁명은	과학/NNG + 혁명/NNG + 은/JX
+과학의	과학/NNG + 의/JKG
+역사상에서는	역사상/NNG + 에서/JKB + 는/JX
+가장	가장/MAG
+획기적인	획기적/NNG + 이/VCP + ㄴ/ETM
+일이었으며	일/NNG + 이/VCP + 었/EP + 으며/EC
+과학혁명에	과학/NNG + 혁명/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+연구는	연구/NNG + 는/JX
+과학사	과학사/NNG
+연구의	연구/NNG + 의/JKG
+가장	가장/MAG
+중요한	중요/NNG + 하/XSA + ㄴ/ETM
+과제의	과제/NNG + 의/JKG
+하나로서	하나/NR + 로서/JKB
+활발히	활발히/MAG
+진행되어	진행/NNG + 되/XSV + 어/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+그	그/MM
+중요도는	중요도/NNG + 는/JX
+과학사	과학사/NNG
+전공이	전공/NNG + 이/JKS
+있는	있/VV + 는/ETM
+미국의	미국/NNP + 의/JKG
+대부분의	대부분/NNG + 의/JKG
+박사학위	박사/NNG + 학위/NNG
+프로그램의	프로그램/NNG + 의/JKG
+학위자격종합시험에서	학위/NNG + 자격/NNG + 종합시험/NNG + 에서/JKB
+<과학혁명>을	</SS + 과학/NNG + 혁명/NNG + >/SS + 을/JKO
+거의	거의/MAG
+필수분야로	필수/NNG + 분야/NNG + 로/JKB
+부과하는	부과/NNG + 하/XSV + 는/ETM
+것으로부터도	것/NNB + 으로부터/JKB + 도/JX
+잘	잘/MAG
+알	알/VV + ㄹ/ETM
+수	수/NNB
+있다.	있/VV + 다/EF + ./SF
+
+사실상	사실상/NNG
+‘과학혁명’에	'/SS + 과학/NNG + 혁명/NNG + '/SS + 에/JKB
+대한	대하/VV + ㄴ/ETM
+연구	연구/NNG
+자체가	자체/NNG + 가/JKS
+그	그/MM
+내용이나	내용/NNG + 이나/JC
+방법에	방법/NNG + 에/JKB
+있어서	있/VV + 어서/EC
+세련되어	세련/NNG + 되/XSA + 어/EC
+가면서	가/VX + 면서/EC
+<과학사>를	</SS + 과학사/NNG + >/SS + 를/JKO
+하나의	하나/NR + 의/JKG
+독자적	독자적/NNG
+학문분야로	학문/NNG + 분야/NNG + 로/JKB
+정립시키는	정립/NNG + 시키/XSV + 는/ETM
+데에도	데/NNB + 에/JKB + 도/JX
+큰	크/VA + ㄴ/ETM
+역할을	역할/NNG + 을/JKO
+했다고	하/VV + 았/EP + 다고/EC
+볼	보/VV + ㄹ/ETM
+수	수/NNB
+있다.	있/VV + 다/EF + ./SF
+
+또한	또한/MAG
+과학혁명이	과학/NNG + 혁명/NNG + 이/JKS
+위에서	위/NNG + 에서/JKB
+본	보/VV + ㄴ/ETM
+바와	바/NNB + 와/JKB
+같이	같이/MAG
+광범위에	광범위/NNG + 에/JKB
+걸친	걸치/VV + ㄴ/ETM
+사건이었기	사건/NNG + 이/VCP + 었/EP + 기/ETN
+때문에	때문/NNB + 에/JKB
+과학혁명에	과학/NNG + 혁명/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+연구	연구/NNG
+역시	역시/MAG
+광범위에	광범위/NNG + 에/JKB
+걸쳐서	걸치/VV + 어서/EC
+여러	여러/MM
+방향에서	방향/NNG + 에서/JKB
+진행되어	진행/NNG + 되/XSV + 어/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+그리고	그리고/MAJ
+그	그/MM
+때문에	때문/NNB + 에/JKB
+과학혁명에	과학/NNG + 혁명/NNG + 에/JKB
+관한	관하/VV + ㄴ/ETM
+연구는	연구/NNG + 는/JX
+과학사	과학사/NNG
+연구가	연구/NNG + 가/JKS
+취할	취하/VV + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+과학사	과학사/NNG
+특유의	특유/NNG + 의/JKG
+여러	여러/MM
+방법이나	방법/NNG + 이나/JC
+관점들을	관점/NNG + 들/XSN + 을/JKO
+잘	잘/MAG
+보여주기도	보이/VV + 어/EC + 주/VX + 기/ETN + 도/JX
+한다.	하/VX + ㄴ다/EF + ./SF
+
+과학혁명에	과학/NNG + 혁명/NNG + 에/JKB
+대해서	대하/VV + 아서/EC
+전반적으로	전반적/NNG + 으로/JKB
+다룬	다루/VV + ㄴ/ETM
+책들은	책/NNG + 들/XSN + 은/JX
+아주	아주/MAG
+많다.	많/VA + 다/EF + ./SF
+
+우선	우선/MAG
+E.A.	E/SL + ./SF + A/SL + ./SF
+Burtt,	Burtt/SL + ,/SP
+Alexandre	Alexandre/SL
+Koyr	Koyr/SL
+및	및/MAJ
+Butterfield의	Butterfield/SL + 의/JKG
+선구적	선구적/NNG
+업적들에서	업적/NNG + 들/XSN + 에서/JKB
+시작해서	시작/NNG + 하/XSV + 아서/EC
+A.R.	A/SL + ./SF + R/SL + ./SF
+Hall과	Hall/SL + 과/JC
+M.	M/SL + ./SF
+Boas의	Boas/SL + 의/JKG
+책들	책/NNG + 들/XSN
+그리고	그리고/MAJ
+더	더/MAG
+근래에	근래/NNG + 에/JKB
+와서는	오/VV + 아서/EC + 는/JX
+H.F.	H/SL + ./SF + F/SL + ./SF
+Kearney와	Kearney/SL + 와/JC
+Richard	Richard/SL
+S.	S/SL + ./SF
+Westfall의	Westfall/SL + 의/JKG
+책들이	책/NNG + 들/XSN + 이/JKS
+모두	모두/MAG
+과학혁명	과학/NNG + 혁명/NNG
+전반에	전반/NNG + 에/JKB
+대해서	대하/VV + 아서/EC
+다루고	다루/VV + 고/EC
+있고	있/VX + 고/EC
+이들	이/NP + 들/XSN
+책들은	책/NNG + 들/XSN + 은/JX
+모두	모두/MAG
+아주	아주/MAG
+훌륭한	훌륭/XR + 하/XSA + ㄴ/ETM
+업적들이다.	업적/NNG + 들/XSN + 이/VCP + 다/EF + ./SF
+
+또한	또한/MAG
+이	이/MM
+책은	책/NNG + 은/JX
+위의	위/NNG + 의/JKG
+책들	책/NNG + 들/XSN
+중	중/NNB
+몇	몇/MM
+가지가	가지/NNB + 가/JKS
+그런	그런/MM
+것처럼	것/NNB + 처럼/JKB
+과학혁명의	과학/NNG + 혁명/NNG + 의/JKG
+모든	모든/MM
+면에	면/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+전체적이고	전체적/NNG + 이/VCP + 고/EC
+완전한	완전/NNG + 하/XSA + ㄴ/ETM
+논의를	논의/NNG + 를/JKO
+목표로	목표/NNG + 로/JKB
+할	하/VV + ㄹ/ETM
+수도	수/NNB + 도/JX
+없다.	없/VA + 다/EF + ./SF
+
+2	2/SN
+
+그	그/MM
+대상이	대상/NNG + 이/JKS
+<과학혁명>과	</SS + 과학/NNG + 혁명/NNG + >/SS + 과/JKB
+같이	같이/MAG
+흔히	흔히/MAG
+언급되지만	언급/NNG + 되/XSV + 지만/EC
+깊이	깊이/MAG
+이해되지는	이해/NNG + 되/XSV + 지/EC + 는/JX
+않는	않/VX + 는/ETM
+것일	것/NNB + 이/VCP + ㄹ/ETM
+때에는	때/NNG + 에/JKB + 는/JX
+더욱더	더욱더/MAG
+그러하다.	그러/XR + 하/XSA + 다/EF + ./SF
+
+과연	과연/MAG
+<과학혁명>이란	</SS + 과학/NNG + 혁명/NNG + >/SS + 이란/JX
+어떤	어떤/MM
+현상이었는가?	현상/NNG + 이/VCP + 었/EP + 는가/EF + ?/SF
+
+그러나	그러나/MAJ
+1700년경에는	1700/VPN + 년/NNB + 경/XVPN + 에/JKB + 는/JX
+분명히	분명히/MAG
+다른	다른/MM
+형태의	형태/NNG + 의/JKG
+학문,	학문/NNG + ,/SP
+다른	다른/MM
+형태의	형태/NNG + 의/JKG
+학문	학문/NNG
+활동으로서의	활동/NNG + 으로서/JKB + 의/JKG
+과학을	과학/NNG + 을/JKO
+볼	보/VV + ㄹ/ETM
+수	수/NNB
+있었다.	있/VV + 었/EP + 다/EF + ./SF
+
+다른	다른/MM
+면에서	면/NNG + 에서/JKB
+보면,	보/VV + 면/EC + ,/SP
+1500년경의	1500/SN + 년/NNB + 경/XSN + 의/JKG
+유럽	유럽/NNP
+과학은	과학/NNG + 은/JX
+과학	과학/NNG
+그	그/MM
+자체만으로	자체/NNG + 만/JX + 으로/JKB
+독자적인	독자적/NNG + 이/VCP + ㄴ/ETM
+분야를	분야/NNG + 를/JKO
+이루지	이루/VV + 지/EC
+못한	못하/VX + ㄴ/ETM
+채	채/NNB
+철학의	철학/NNG + 의/JKG
+한	한/MM
+분야에	분야/NNG + 에/JKB
+지나지	지나/VV + 지/EC
+못했고	못하/VX + 았/EP + 고/EC
+더	더/MAG
+정확하게	정확/NNG + 하/XSA + 게/EC
+말하면	말/NNG + 하/XSV + 면/EC
+神學을	神學/SH + 을/JKO
+뒷받침하기	뒷받침/NNG + 하/XSV + 기/ETN
+위해	위하/VV + 아/EC
+존재했던	존재/NNG + 하/XSV + 았/EP + 던/ETM
+것인데	것/NNB + 이/VCP + ㄴ데/EC
+1700년경에	1700/SN + 년/NNB + 경/XSN + 에/JKB
+가서는	가/VV + 아서/EC + 는/JX
+과학이	과학/NNG + 이/JKS
+그	그/MM
+자체로서	자체/NNG + 로서/JKB
+존재하게	존재/NNG + 하/XSV + 게/EC
+되었다.	되/VV + 었/EP + 다/EF + ./SF
+
+다시	다시/MAG
+말해서	말/NNG + 하/XSV + 아서/EC
+1700년경이	1700/SN + 년/NNB + 경/XSN + 이/JKS
+새로운	새롭/VA + ㄴ/ETM
+과학자들은	과학자/NNG + 들/XSN + 은/JX
+철학이나	철학/NNG + 이나/JC
+신학의	신학/NNG + 의/JKG
+문제로부터	문제/NNG + 로부터/JKB
+파생된	파생/NNG + 되/XSV + ㄴ/ETM
+것이	것/NNB + 이/JKC
+아닌	아니/VCN + ㄴ/ETM
+자연세계를	자연/NNG + 세계/NNG + 를/JKO
+이해하려고	이해/NNG + 하/XSV + 려고/EC
+하는	하/VX + 는/ETM
+흥미	흥미/NNG
+자체에서	자체/NNG + 에서/JKB
+과학에	과학/NNG + 에/JKB
+종사하게	종사/NNG + 하/XSV + 게/EC
+된	되/VV + ㄴ/ETM
+것이고	것/NNB + 이/VCP + 고/EC
+더	더/MAG
+나아가서	나아가/VV + 아서/EC
+자연세계의	자연/NNG + 세계/NNG + 의/JKG
+이해를	이해/NNG + 를/JKO
+통해서	통하/VV + 아서/EC
+자연을	자연/NNG + 을/JKO
+이용하고	이용/NNG + 하/XSV + 고/EC
+조작하려고까지	조작/NNG + 하/XSV + 려고/EC + 까지/JX
+꾀했다.	꾀하/VV + 았/EP + 다/EF + ./SF
+
+따라서	따라서/MAJ
+1500년의	1500/SN + 년/NNB + 의/JKG
+유럽사회에서는	유럽/NNP + 사회/NNG + 에서/JKB + 는/JX
+우리가	우리/NP + 가/JKS
+科學者라고	科學者/SH + 라고/JKQ
+부를	부르/VV + ㄹ/ETM
+수	수/NNB
+있는,	있/VV + 는/ETM + ,/SP
+즉	즉/MAG
+과학만을	과학/NNG + 만/JX + 을/JKO
+했거나	하/VV + 았/EP + 거나/EC
+과학에	과학/NNG + 에/JKB
+주된	주/NNG + 되/XSV + ㄴ/ETM
+관심을	관심/NNG + 을/JKO
+가진	가지/VV + ㄴ/ETM
+사람을	사람/NNG + 을/JKO
+찾아볼	찾아보/VV + ㄹ/ETM
+수	수/NNB
+없었던	없/VA + 었/EP + 던/ETM
+데	데/NNB
+반해	반하/VV + 아/EC
+1700년에는	1700/SN + 년/NNB + 에/JKB + 는/JX
+많은	많/VA + 은/ETM
+사람들이	사람/NNG + 들/XSN + 이/JKS
+<과학자>의	</SS + 과학자/NNG + >/SS + 의/JKG
+범주에	범주/NNG + 에/JKB
+속하게	속하/VV + 게/EC
+되었다.	되/VV + 었/EP + 다/EF + ./SF
+
+그리고	그리고/MAJ
+유럽의	유럽/NNP + 의/JKG
+여러	여러/MM
+곳에서	곳/NNG + 에서/JKB
+과학을	과학/NNG + 을/JKO
+위한	위하/VV + ㄴ/ETM
+학술단체가	학술/NNG + 단체/NNG + 가/JKS
+생겨나고	생겨나/VV + 고/EC
+과학전문	과학/NNG + 전문/NNG
+학술잡지까지도	학술/NNG + 잡지/NNG + 까지/JX + 도/JX
+생겨나게	생겨나/VV + 게/EC
+된	되/VV + ㄴ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+이러한	이러/XR + 하/XSA + ㄴ/ETM
+변혁은	변혁/NNG + 은/JX
+결과적으로	결과적/NNG + 으로/JKB
+인간이	인간/NNG + 이/JKS
+자연을	자연/NNG + 을/JKO
+보는	보/VV + 는/ETM
+관점의	관점/NNG + 의/JKG
+변혁을	변혁/NNG + 을/JKO
+넘어서서	넘어서/VV + 어서/EC
+인간과	인간/NNG + 과/JC
+자연간의	자연/NNG + 간/NNB + 의/JKG
+관계	관계/NNG
+자체에도	자체/NNG + 에/JKB + 도/JX
+변화를	변화/NNG + 를/JKO
+가져왔고	가져오/VV + 았/EP + 고/EC
+더	더/MAG
+나아가서는	나아가/VV + 아서/EC + 는/JX
+과학과	과학/NNG + 과/JC
+사회구조와의	사회/NNG + 구조/NNG + 와/JKB + 의/JKG
+관계에도	관계/NNG + 에/JKB + 도/JX
+변화를	변화/NNG + 를/JKO
+일으켰다.	일으키/VV + 었/EP + 다/EF + ./SF
+
+그리고	그리고/MAJ
+이런	이런/MM
+면에서	면/NNG + 에서/JKB
+볼	보/VV + ㄹ/ETM
+때	때/NNG
+과학혁명은	과학/NNG + 혁명/NNG + 은/JX
+유럽문화	유럽/NNP + 문화/NNG
+전체에	전체/NNG + 에/JKB
+배경을	배경/NNG + 을/JKO
+두고	두/VV + 고/EC
+유럽문화,	유럽/NNP + 문화/NNG + ,/SP
+나아가서는	나아가/VV + 아서/EC + 는/JX
+세계문화	세계/NNG + 문화/NNG
+전체에	전체/NNG + 에/JKB
+걸쳐	걸치/VV + 어/EC
+영향을	영향/NNG + 을/JKO
+미친	미치/VV + ㄴ/ETM
+혁명적	혁명적/NNG
+변화였던	변화/NNG + 이/VCP + 었/EP + 던/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
